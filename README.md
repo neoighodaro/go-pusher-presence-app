@@ -2,7 +2,7 @@
 
 This is a demo on how to integrate realtime presence into web applications using Go, JavaScript and Pusher.
 
-[View tutorial](https://blog.pusher.com/author/neo/)
+[View tutorial](https://pusher.com/tutorials/go-vue-online-presence)
 
 ## Prerequisites
 
